@@ -1,7 +1,9 @@
 <h2>Hello, I'm Vladislav</h2>
 
-<!---Для компактной версии-->
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladkncodes&layout=compact)](https://github.com/vladkncodes/github-readme-stats)
+--!
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladkncodes)](https://github.com/vladkncodes/github-readme-stats)
