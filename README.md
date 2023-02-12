@@ -1,4 +1,10 @@
-<h2>Hello, I'm Vladislav</h2>
+<h1 align="center"> Hi there 👋  </h1>
+
+<p align="center">
+I'm Vladislav, a full stack web developer from Saint Petersburg Russia.
+</p>
+
+
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
