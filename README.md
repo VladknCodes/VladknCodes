@@ -17,7 +17,6 @@ I'm Vladislav, a full-stack web developer from Saint Petersburg Russia.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladkncodes&layout=compact)](https://github.com/vladkncodes/github-readme-stats)
 --!
