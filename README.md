@@ -4,7 +4,6 @@
 I'm Vladislav, a full-stack web developer from Saint Petersburg Russia.
 </p>
 
-
 <h4 align="center">Technology stack</h4>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -16,10 +15,3 @@ I'm Vladislav, a full-stack web developer from Saint Petersburg Russia.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladkncodes&layout=compact)](https://github.com/vladkncodes/github-readme-stats)
---!
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladkncodes)](https://github.com/vladkncodes/github-readme-stats)
