@@ -4,7 +4,11 @@
 I'm Vladislav, a full-stack web developer from Saint Petersburg Russia.
 </p>
 
-<h4 align="center">Technology stack</h4>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h4 align="center">Languages and Tools</h4>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
