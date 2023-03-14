@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋</h2>
 
-<h4 align="center">I'm Vladislav, a full-stack web developer from Saint Petersburg Russia.</h4>
+<h4 align="center">I'm Vladislav, a full-stack web developer from Saint Petersburg, Russia.</h4>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
